@@ -1,5 +1,5 @@
 ## Hei! 👋
-- 💡 Opiskelen parhaillaan Python
+- 💡 Opiskelen parhaillaan Pythonia
   
 
 
